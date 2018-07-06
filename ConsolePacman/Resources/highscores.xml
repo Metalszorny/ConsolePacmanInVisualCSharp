@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Highscores>
+  <Highscore Place="1">
+    <Name>yeah</Name>
+    <Score>3300</Score>
+  </Highscore>
+  <Highscore Place="2">
+    <Name>Dev</Name>
+    <Score>2400</Score>
+  </Highscore>
+  <Highscore Place="3">
+    <Name>Test</Name>
+    <Score>0</Score>
+  </Highscore>
+</Highscores>
