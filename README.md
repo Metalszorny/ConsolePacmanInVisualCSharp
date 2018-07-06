@@ -3,7 +3,7 @@
 
 About:
 ------
-A console character based snake game with random generated collectables and obstacles with highscores and option settings.
+A console character based single map pacman game with highscores and option settings.
 
 
 Used languages:
